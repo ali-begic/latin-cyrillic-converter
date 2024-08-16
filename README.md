@@ -2,6 +2,8 @@
 
 **Latin - Cyrillic Converter** is a powerful yet simple Qt-based application designed for anyone who frequently needs to switch between Latin and Cyrillic alphabets. Whether you're working on documents, translating text, or writing code that requires both scripts, this tool provides a seamless experience for text conversion.
 
+![latin-cyrillic-converter-capture](https://github.com/user-attachments/assets/fd0b04f1-154b-4341-b17d-2787398374a3)
+
 ## Features
 
 - **Bidirectional Text Conversion**:
