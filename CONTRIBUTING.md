@@ -47,7 +47,7 @@ To contribute code, please follow these steps:
      ```
 
 7. **Open a Pull Request:**
-   - Go to the [Pull Requests](https://github.com/ali-begic/grades/pulls) section of the original repository and open a new pull request.
+   - Go to the [Pull Requests](https://github.com/ali-begic/latin-cyrillic-converter/pulls) section of the original repository and open a new pull request.
    - Describe the changes you made and link any relevant issues.
 
 ## Style Guidelines
