@@ -1,4 +1,4 @@
-# Contributing to **Latin - Cyrillic Converter**
+# Contributing to Latin - Cyrillic Converter
 
 Thank you for considering contributing to the **Latin - Cyrillic Converter** application! Your contributions are vital for the growth and improvement of this project.
 
