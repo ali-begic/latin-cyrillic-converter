@@ -71,11 +71,11 @@ To build and run the **Latin - Cyrillic Converter** application from source, it 
 
 4. **Run Your Application:**
    - After a successful build, the executable will be located in the build directory.
+   - On Windows, you can find the executable in the release or debug directory depending on your build configuration.
    - Run the application:
      ```
      ./latinCyrillicConverter
      ```
-   - On Windows, you can find the executable in the release or debug directory depending on your build configuration.
 
 Thank you for your interest in the **Latin - Cyrillic Converter** application!
 
